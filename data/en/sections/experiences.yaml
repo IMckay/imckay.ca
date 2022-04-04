@@ -16,7 +16,7 @@ experiences:
     location: Winnipeg, MB
     overview: DAE Enterprises is a company that operates 6 franchised pizza chain restaurants.
   positions:
-  - designation: Accountant
+  - designation: Accountant (Remote)
     start: Nov 2019
     #end: May 2017
     responsibilities:
@@ -44,7 +44,7 @@ experiences:
     # company overview
     overview: LiveCA LLP is an online CPA firm servicing customers in every province.
   positions:
-  - designation: Bookkeeping Associate
+  - designation: Bookkeeping Associate (Remote)
     start: Aug 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Oct 2019
