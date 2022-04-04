@@ -21,9 +21,9 @@ skills:
   summary: "I have multiple years of experience working with Quickbooks Desktop in small business settings. I've conducted daily bookkeeping duties,  month-end and year-end procedures, and creating and generating financial reports."
   url: "https://quickbooks.intuit.com/ca/"
 
-- name: Microsoft Excel
+- name: Microsoft Excel / Word
   logo: "/images/sections/skills/excel.svg"
-  summary: "Advanced knowledge of Microsoft Excel and other microsoft programs. Proficient with PivotTables, VLookup and some macros."
+  summary: "Advanced knowledge of Microsoft Excel and other microsoft programs. Proficient with PivotTables, VLookup and macros."
   url: "https://www.microsoft.com/en-ca/microsoft-365/excel"
 
 - name: Adobe Photoshop
@@ -31,10 +31,10 @@ skills:
   summary: "No formal training, but I've worked with photoshop in a hobby capacity for many years. I've designed stream overlays, digital maps, and marketing materials."
   url: "https://www.adobe.com/ca/products/photoshop.html"
 
-- name: Lisp and Prolog
+- name: Zendesk and Karbon CRM
   logo: "/images/sections/skills/lisp.svg"
-  summary: "Wrote multiple projects using both Lisp and Prolog during my studies in university. Some of these projects included developing Expert Systems and basic AI implementations."
-  url: "https://lisp-lang.org/"
+  summary: "Experience handling client communications and support through both Zendesk and CRM programs such as Karbon"
+  url: 
 
 - name: Other Projects
   logo: "/images/sections/skills/linux.svg"
